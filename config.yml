@@ -1,0 +1,4 @@
+# genome
+genome: /public/home/mowp/db/Arabidopsis_thaliana/dna/hisat2_index/Arabidopsis_thaliana.TAIR10.dna.toplevel.fa
+ann_gtf: /public/home/mowp/db/Arabidopsis_thaliana/gtf/Araport11_GFF3_genes_transposons.201606.gtf
+ann_gff: /public/home/mowp/db/Arabidopsis_thaliana/gff3/Araport11_GFF3_genes_transposons.201606.gff 
